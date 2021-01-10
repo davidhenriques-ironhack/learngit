@@ -1,4 +1,4 @@
-#Computes the area of a square of side s
+#TODO: Implement function that computes the area of a square of side s
 #def square_area(s):
 
 #TODO: Implement function that returns the area of a cube of side s
