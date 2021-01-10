@@ -6,5 +6,7 @@ def square_area(s):
 def cube_area(s):
     return 6*square_area(s)
 
+
 #TODO: Implement function that returns the area of a circle with radius r
-#def circle_area(r):
+def circle_area(r):
+    return 3.14*r*r
